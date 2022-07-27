@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
-namespace WebApp.AC.Tests.PR
+namespace ConsoleApp.PR.Tests.AC
 {
     [TestClass]
     public class UnitTest1
@@ -8,7 +9,7 @@ namespace WebApp.AC.Tests.PR
         [TestMethod]
         public void TestMethod1()
         {
-            var mt = new MemoryThing();
+            var m = new MemThing();
         }
     }
 }

@@ -5,13 +5,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebApp.AC
+namespace ConsoleApp.AC
 {
-    public class MemoryThing
+    public class Program
     {
-        public MemoryThing()
+        public static void Main(string[] args)
         {
-            var memthing = new MemoryCache(new MemoryCacheOptions());
         }
     }
 }
