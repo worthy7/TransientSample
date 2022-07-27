@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.AC.Test.PR", "UnitTestProject1\WebApp.AC.Test.PR.csproj", "{ECC86741-622B-4202-9AD6-9C5F7AAAA623}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.AC.Test.PR", "WebApp.AC.Test.PR\WebApp.AC.Test.PR.csproj", "{ECC86741-622B-4202-9AD6-9C5F7AAAA623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.AC", "WebApplication1\WebApp.AC.csproj", "{55867713-64FC-4D99-951E-1EA0626C75B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.AC", "WebApp.AC\WebApp.AC.csproj", "{55867713-64FC-4D99-951E-1EA0626C75B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.AC", "ConsoleApp1\ConsoleApp.AC.csproj", "{69FFCEDB-FC0C-49CB-AC39-97A6F835D5D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.AC", "ConsoleApp.AC\ConsoleApp.AC.csproj", "{69FFCEDB-FC0C-49CB-AC39-97A6F835D5D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.AC.Tests.AC", "PRBaseConsoleApp.Tests\ConsoleApp.AC.Tests.AC.csproj", "{C9DC7050-E1E6-41BF-94DF-0B80558627E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.AC.Tests.AC", "ConsoleApp.AC.Tests.AC\ConsoleApp.AC.Tests.AC.csproj", "{C9DC7050-E1E6-41BF-94DF-0B80558627E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.AC.Test.AC", "WebAppConfig.Test.AppConfig\WebApp.AC.Test.AC.csproj", "{6310EC2D-E748-43EF-9A65-AE90DAE689FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.AC.Test.AC", "WebApp.AC.Test.AC\WebApp.AC.Test.AC.csproj", "{6310EC2D-E748-43EF-9A65-AE90DAE689FF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.PR", "ConsoleApp.PR\ConsoleApp.PR.csproj", "{EBD6B913-A6BD-4905-A338-535ADFAC3222}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.PR.Tests.PR", "ConsoleApp.PR.Tests\ConsoleApp.PR.Tests.PR.csproj", "{7B706032-6C25-4228-A71D-98AC6E4FEDC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.PR.Tests.PR", "ConsoleApp.PR.Tests.PR\ConsoleApp.PR.Tests.PR.csproj", "{7B706032-6C25-4228-A71D-98AC6E4FEDC3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.AC.Tests.PR", "ConsoleApp.AC.Tests.PR\ConsoleApp.AC.Tests.PR.csproj", "{9FF739E3-85B3-4185-96DA-43B3E138510B}"
 EndProject

@@ -9,7 +9,7 @@ namespace ConsoleApp.PR.Tests.PR
         [TestMethod]
         public void TestMethod1()
         {
-            var m = new ConsoleApp.PR.MemThing();
+            var m = new MemThing();
         }
     }
 }
